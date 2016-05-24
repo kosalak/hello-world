@@ -10,5 +10,8 @@ User:		kosala
 package com.hello.now;
 
 public class KO {
+	
+	private int asd;
+	
 
 }
